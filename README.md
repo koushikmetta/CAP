@@ -9,8 +9,8 @@ git checkout -b <branch_name>
 ```
 
 - This command creates a new branch named `<branch_name>` and switches to it immediately.
-- Make sure to use a descriptive branch name, like `feature/currency-add` or `bugfix/fix-login-issue`, to make branch purposes clear.
-
+- Make sure to use a descriptive branch name, like `feature/currency-add` or `bugfix/fix-login-issue`, to make branch purposes clear. Also Include JIRA Ticket in the branch name.
+ 
 ---
 
 ### 2. **Make Code Changes in the Branch**
